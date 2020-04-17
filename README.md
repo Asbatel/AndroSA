@@ -19,7 +19,7 @@ AndroSa can be installed as follows:
 # Usage
 
 To test an APK:
-- Simply navigate to the main directory (cd androsa)
+- Simply navigate to the main directory `cd androsa/`
 - Run the following command: `python check_apk.py <apk_path>`
 
 
