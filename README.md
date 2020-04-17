@@ -14,7 +14,7 @@ AndroSA depends on the following tools:
 AndroSa can be installed as follows:
 
    - Download or clone the repo (git clone https://github.com/Asbatel/AndroSA.git)
-   - Navigate to the main directory (cd AndroSa)
+   - Navigate to the main directory (cd androsa)
    - Install the required tools (Androguard + Scikit-learn)
 
 # Usage
