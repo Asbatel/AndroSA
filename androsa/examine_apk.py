@@ -78,7 +78,7 @@ class Analysis:
     def testAPK(self):
         shapedArray = np.array(self.featureList)
         finalShape = shapedArray.reshape(1, -1)
-        filename = 'svm_trained_model.sav'
+        filename = '../svm_trained_model.sav'
         loaded_model = pickle.load(open(filename, 'rb'))
         result = loaded_model.predict(finalShape)
         if int(result) == 1:

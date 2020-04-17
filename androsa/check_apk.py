@@ -2,7 +2,7 @@ import sys
 import os
 import json
 from androguard.misc import AnalyzeAPK
-from analysis_apk import Analysis
+from examine_apk import Analysis
 
 if len(sys.argv) != 2:
     print('Usage: check_apk.py <apk_path>')
