@@ -1,0 +1,4 @@
+{
+    "sensitiveCommands": ["chmod", "insmod", "su", "mount", "sh", "killall", "reboot", "mkdir", "getprop", "ln", "ps"]
+
+}
