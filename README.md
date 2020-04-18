@@ -6,8 +6,8 @@ AndroSA is a framework meant to apply static analysis and detection of Android m
 
 AndroSA depends on the following tools:
 
-   - Androguard: It is used for statically analyzing the target APK and extracting its contextual and structural data (https://github.com/androguard/androguard)
-   - scikit-learn: Machine learning library for Python
+   - Androguard: It is used for statically analyzing the target APK and extracting its contextual and structural data. (https://github.com/androguard/androguard)
+   - scikit-learn: Machine learning library for Python.
    
 # Installation
 
@@ -19,7 +19,7 @@ AndroSa can be installed as follows:
 # Usage
 
 To test an APK:
-- Simply navigate to the main directory `cd androsa/`
+- Navigate to the main directory `cd androsa/`
 - Run the following command: `python check_apk.py <apk_path>`
 
 
