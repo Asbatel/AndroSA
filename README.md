@@ -15,6 +15,8 @@ AndroSA depends on the following tools:
    
 # Installation and Usage
 
+To test an APK:
+
    - Download or clone the repo (git clone https://github.com/Asbatel/AndroSA.git)
    - Install the required tools (Androguard + scikit-learn)  
    - Navigate to the main directory `cd androsa/`
